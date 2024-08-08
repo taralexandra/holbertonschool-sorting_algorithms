@@ -1,4 +1,4 @@
-#Readme file for the TEAM project Sorting algorithms :ledger: :busts_in_silhouette:
+# Readme file for the TEAM project Sorting algorithms :ledger: :busts_in_silhouette:
 
 - This file is associated to the Sorting algorithms & Big O projects.
 
